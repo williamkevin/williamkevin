@@ -1,16 +1,14 @@
-### Hi there 👋
+# Profile
 
-<!--
-**williamkevin/williamkevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Sewon&fontSize=90)
 
-Here are some ideas to get you started:
+Hi, my name is Sewon kim. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m majoring in Electronic Computer Engineering at Univeristy of Seoul from 2022.
+
+I'm a junior BE developer in UOSLIFE
+
+I would be a developer who make VALUE
+
+Welcome to my private profile Notion 
+https://hypnotic-panama-129.notion.site/Technologist-8b9ad53f5a5948f2adecdee39dbaca42
