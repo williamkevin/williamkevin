@@ -8,7 +8,7 @@ I’m majoring in Electronic Computer Engineering at Univeristy of Seoul from 20
 
 I'm a junior BE developer in UOSLIFE.
 
-I'm going to be a developer who makes values and my Github account have such traces.
+I'm going to be a developer who makes values and my GitHub account have such traces.
 
 Welcome to my private profile Notion 
 https://hypnotic-panama-129.notion.site/Technologist-8b9ad53f5a5948f2adecdee39dbaca42
