@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Sewon&fontSize=90)
 
-Hi, I'm is Sewon kim. 
+Hi, I'm Sewon kim. 
 
 I’m majoring in Electronic Computer Engineering at Univeristy of Seoul from 2022.
 
